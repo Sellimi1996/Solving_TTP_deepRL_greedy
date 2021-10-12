@@ -7,7 +7,7 @@ Solving an Traveling thisf problem with Deep Reinforcement Learning and greedy h
 - University: FSEGN university carthage
 - Master: Master's Degree in Business computing
 - Specialization: computer science
-## **Result:**Some predicted tour by our model  
+## Result:Some predicted tour by our model  
 ![plot](Solution/Solution0_440.1611.png)
 ![plot](Solution/Solution9_1089.8518.png)
 ![plot](Solution/Solution9_1250.6164.png)
