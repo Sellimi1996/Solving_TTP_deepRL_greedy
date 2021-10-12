@@ -8,7 +8,7 @@ University: FSEGN university carthage
 Master: Master's Degree in Business computing
 Specialization: computer science
 #Result:
-
+![Alt text](C:\Users\user\Documents\Bussnis computing\GitPro\Solving_TTP_deepRL_greedy\Solution\Solution0_440.1611.png)
 #Abstract:
 #Contents:
 #References:
