@@ -9,6 +9,6 @@ Solving an Traveling thisf problem with Deep Reinforcement Learning and greedy h
 -Specialization: computer science
 ## **Result:**
 ![plot](Solution/Solution0_440.1611.png)
--**Abstract:**
--**Contents:**
--**References:**
+## **Abstract:**
+## **Contents:**
+## **References:**
